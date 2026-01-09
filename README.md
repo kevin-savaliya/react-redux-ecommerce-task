@@ -44,12 +44,8 @@ https://dummyjson.com/docs/auth
 
 Test credentials used:
 
-```
-
 Username: kminchelle
 Password: 0lelplR
-
-```
 
 After successful login, the JWT token is stored in localStorage and used to manage protected routes.
 
@@ -77,8 +73,6 @@ Products are displayed in a user-friendly layout, and users can add items to the
 
 ## Project Structure
 
-```
-
 src/
 ├── api/
 ├── components/
@@ -91,32 +85,24 @@ src/
 ├── App.js
 └── index.js
 
-```
-
 ---
 
 ## How to Run the Project
 
 1. Install dependencies  
-```
 
 npm install
 
-```
 
 2. Start the application  
-```
 
 npm start
 
-```
 
 3. Open in browser  
-```
 
 [http://localhost:3000](http://localhost:3000)
 
-```
 
 ---
 
@@ -126,4 +112,3 @@ The focus of this project is correct functionality, clean Redux state management
 The application can be extended further with additional features and UI improvements.
 
 ---
-```
